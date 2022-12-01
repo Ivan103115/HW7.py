@@ -33,3 +33,4 @@ print(f'Ваше имя:{switz.getname()} \nНа вашем счету:{switz.ge
 print(switz.moneyX())
 print(switz._kill())
 print(switz._Bank__jackpot())
+

@@ -15,7 +15,7 @@ terminal прокта,cmd,git bash:
     git commit -m 'first commit'
     git push origin master/main
 
-пунтк 2
+ пунтк 2
 пуш после работы
 terminal прокта,cmd,git bash:
     git add .
